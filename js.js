@@ -1,1 +1,1 @@
-alert("Hola mundo");
+console.log("Comienza a funcionar la pagina");
